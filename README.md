@@ -1,0 +1,1 @@
+# Image-slider-with-auto-play-and-manual-navigation
